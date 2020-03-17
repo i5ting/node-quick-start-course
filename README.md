@@ -8,8 +8,8 @@
 
 - [x] [1. 狼叔与Node.js的不解之缘](ppt/1.pptx)
 - [x] [2. Node.js 3m安装实践](ppt/2.pptx)
-- [ ] 3. Node.js 编辑器与调试
-- [ ] 4. Node.js 代码如何测试
+- [x] [3. Node.js 编辑器与调试](ppt/3.pptx)
+- [x] [4. Node.js 代码如何测试](ppt/4.pptx)
 - [ ] 5. Node.js 命令行开发
 - [ ] 6. Node.js Web应用开发
 - [ ] 7. Node.js 与 BFF
