@@ -10,7 +10,7 @@
 - [x] [2. Node.js 3m安装实践](ppt/2.pptx)
 - [x] [3. Node.js 编辑器与调试](ppt/3.pptx)
 - [x] [4. Node.js 代码如何测试](ppt/4.pptx)
-- [ ] 5. Node.js 命令行开发
+- [x] [5. Node.js 命令行开发](ppt/5.pptx)
 - [ ] 6. Node.js Web应用开发
 - [ ] 7. Node.js 与 BFF
 - [ ] 8. Node.js 模块如何学习
