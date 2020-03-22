@@ -6,7 +6,7 @@
 
 ## 目录
 
-- [x] [0. 前传，这课适合你么？](ppt/category.pptx)
+- [x] [前传：这课适合你么？](ppt/category.pptx)
 - [x] [1. 狼叔与Node.js的不解之缘](ppt/1.pptx)
 - [x] [2. Node.js 3m安装实践](ppt/2.pptx)
 - [x] [3. Node.js 编辑器与调试](ppt/3.pptx)
