@@ -104,3 +104,4 @@ dist
 
 package-lock.json
 .tern-port
+.DS_Store
