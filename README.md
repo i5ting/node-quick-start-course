@@ -20,8 +20,8 @@
 - [x] [7. Node.js 与 BFF](ppt/7.pptx)
 - [x] [8. Node.js 模块如何学习](ppt/8.pptx)
 - [x] [9. Node.js 模块推荐](ppt/9.pptx)
-- [x] [10. Node.js 编写标准开源项目](ppt/10.pptx)
-- [x] [11. Node.js SSR服务器端渲染](ppt/11.pptx)
+- [x] [10. Node.js SSR服务器端渲染](ppt/11.pptx)
+- [x] [11. Node.js 编写标准开源项目](ppt/10.pptx)
 - [x] [12. Node.js与Serverless未来展望](ppt/12.pptx)
 
 ## 配套视频
